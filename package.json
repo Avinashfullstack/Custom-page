@@ -1,0 +1,23 @@
+{
+  "name": "custom-page",
+  "version": "1.0.0",
+  "description": "When the user visits your url that your app doesnt recognize send back your Custom page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avinashfullstack/Custom-page.git"
+  },
+  "author": "Avinash.B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Avinashfullstack/Custom-page/issues"
+  },
+  "homepage": "https://github.com/Avinashfullstack/Custom-page#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
